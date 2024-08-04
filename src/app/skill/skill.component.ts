@@ -17,29 +17,29 @@ export class SkillComponent implements OnInit {
       rating: '80' // Assuming rating is a number
     },
     {
-      name: 'Angular, Angular Material',
+      name: 'HTML',
       level: 'Expert',
       rating: '80' // Assuming rating is a number
     },
     {
-      name: 'Angular, Angular Material',
-      level: 'Expert',
-      rating: '80' // Assuming rating is a number
+      name: 'CSS',
+      level: 'Intermediate',
+      rating: '70' // Assuming rating is a number
     },
     {
-      name: 'Angular, Angular Material',
-      level: 'Expert',
-      rating: '80' // Assuming rating is a number
+      name: 'JavaScript',
+      level: 'Intermediate',
+      rating: '70' // Assuming rating is a number
     },
     {
-      name: 'Angular, Angular Material',
-      level: 'Expert',
-      rating: '80' // Assuming rating is a number
+      name: 'MYSQL',
+      level: 'Intermediate',
+      rating: '75' // Assuming rating is a number
     },
     {
-      name: 'Angular, Angular Material',
-      level: 'Expert',
-      rating: '80' // Assuming rating is a number
+      name: 'Bootstrap',
+      level: 'Intermediate',
+      rating: '70' // Assuming rating is a number
     },
   ];
 
