@@ -17,8 +17,9 @@ export class WorkExperinaceComponent implements OnInit{
     company:'Application Square Infotech',
     duration:'Jan 2024 - Jun 2024',
     description:[
-      'Worked With the Multipl temasdsnjvnjnvj dsckjnjcndscndsncsd',
-      'sdvdvnmvdkv jndfvjdf jkd dfkj dfjj fj fj  kdf  j  j '
+      'Developed & integrated complex UI components using HTML5, CSS3 & Angular CLI.',
+      'Worked on API integration, payment gateways, maps for complex UI development.',
+      'Solved complex backend errors and optimized performance.'
     ],
   },
 ];
